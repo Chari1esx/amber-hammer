@@ -6,6 +6,11 @@
 
 Amber, 意为琥珀, 包括一些数据结构
 
+1. HttpStatusCode - HTTP 状态码
+2. HttpResponseBody - HTTP 响应体
+
 # 2. Hammer
 
 Hammer, 意为锤子, 包括一些工具类
+
+1. HttpResponseUtil - 构造 HTTP 响应
